@@ -6,7 +6,7 @@
 	<persistence-unit name="resourcePersistenceUnit">
 		<properties>
 			<property name="javax.persistence.jdbc.url"
-				value="jdbc:mysql://localhost:3306/projectResourceManagement" />
+				value="jdbc:mysql://localhost:3306/resourceTool" />
 			<property name="javax.persistence.jdbc.user" value="root" />
 			<property name="javax.persistence.jdbc.password"
 				value="coderslab" />
